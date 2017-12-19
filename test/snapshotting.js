@@ -1,4 +1,4 @@
-var TestRPC = require("../");
+var TestRPC = require("../index.js");
 var async = require("async");
 var Web3 = require("web3");
 var assert = require("assert");
